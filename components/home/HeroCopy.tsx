@@ -274,7 +274,7 @@ export default function HeroCopy() {
                 {stage.description}
               </p>
 
-              {stage.cta && (
+              {/* {stage.cta && (
                 <div
                   className={`
                     pointer-events-auto
@@ -314,7 +314,7 @@ export default function HeroCopy() {
                     />
                   </Link>
                 </div>
-              )}
+              )} */}
             </div>
           </motion.div>
         );
